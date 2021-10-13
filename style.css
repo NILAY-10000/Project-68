@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: deepskyblue;
+}
+p{
+    color: crimson;
+    font-weight: bold;
+}
+.qwertyuiopasdfghjklzxcvbnm{
+    height: 300px;
+    width: 300px;
+}
+h1{
+    color: crimson;
+    font-weight: bold;
+}
+marquee{
+    color: darkgreen;
+    font-weight: bold;
+}
